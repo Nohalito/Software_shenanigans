@@ -4,3 +4,5 @@ Commit ? I tried to commit once. They needed a ssh key, a private ssh key. A pri
 ## What to now about this file :
 
 There is pretty much nothing to see around here, only some tomfoolery <sub>honk honk :o)</sub>
+
+Most of the exercises come from this GOAT : <a href="https://github.com/virgilus">Virgilus</a>
